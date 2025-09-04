@@ -13,7 +13,8 @@ The goal of this work was not just to use libraries, but to **rebuild key algori
 - Feature extraction and descriptors (SIFT-like methods)  
 - Geometric transformations, homographies, and image alignment  
 - Image pyramids and multi-scale analysis  
-- Classic object detection pipelines and their evolution  
+- Classic object detection pipelines and their evolution
+- Connections between classical methods and **modern machine learning approaches**
 
 ---
 
@@ -26,7 +27,8 @@ The goal of this work was not just to use libraries, but to **rebuild key algori
 
 ## 🛠️ Tech Stack
 - **Python**
-- **PyTorch**  
+- **PyTorch**
+- **Scikit-learn** (for basic ML models and comparisons)  
 - **NumPy**   
 - **OpenCV**
 - **Matplotlib** (for visualization)  
